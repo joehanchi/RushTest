@@ -1,4 +1,3 @@
-
 # RushTest: Artificially Intelligent RushTest solution providing real-time enterprise-grade architecture and intelligent high-performance Hub Implementation
 > Advanced typescript solution leveraging modern architecture patterns and cutting-edge technology.
 
